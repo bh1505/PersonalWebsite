@@ -1,0 +1,133 @@
+body {
+	margin : 0px;
+	background: rgba(0, 0, 255, 0.5)
+}
+
+nav {
+	background : grey;
+	clear: both;
+	float: left;
+	height : 70px;
+	position: fixed;
+	z-index: 1000;
+	right: 0px;
+	width: 35%;
+}
+nav ul {
+	list-style: none;
+	position :relative;
+	right: 10px;
+	padding : 0px;
+	float: left;
+	width : 100%;
+}
+nav ul li{
+	color: white;
+	float: left;
+	font-family: helvetica;
+	font-size: 10pt;
+	height: 100%;
+	padding-top: 10px;
+	text-align: center;
+	width: 25%;
+}
+
+nav ul li:hover{
+	color: teal;
+	cursor: pointer;
+}
+
+#main{
+	height: 100vh;
+	width: 100vw;
+	clear: both;
+	padding-top: 5%;
+}
+
+
+h1{
+	text-align: center;
+	color: white;
+	font-family: helvetica;
+}
+
+img{
+	float 		: left;
+	width 		: 30vw;
+	height 	: 50vh;
+	border: solid 5px black;
+}
+
+#cat{
+	float 		: left;
+	width 		: 30vw;
+	height 	: 50vh;
+	border: solid 5px black;
+}
+
+.next, .next2, .next3{
+	position: relative;
+	left  		: 20px;
+	float 		: left;
+	width 		: 31vw;
+	height 	: 50vh;
+}
+
+#tab{
+	display:none;
+}
+
+.next4{
+	position: relative;
+	left: 25px;
+	padding-top: 10px;
+	float 		: left;
+	width 		: 95vw;
+	height 	: 50vh;
+	border: solid 0px black;
+}
+.box{
+	float 		: left;
+	position: relative;
+	left: 20px;
+	width 		: 31vw;
+	height 	: 40vh;
+	border-right: solid 1px black;
+}
+
+.third{
+	float 		: left;
+	position: relative;
+	left: 20px;
+	width 		: 31vw;
+	height 	: 40vh;
+}
+
+.box1{
+	float 		: left;
+	position	: relative;
+	left        : 20px;
+	width 		: 31vw;
+	height 		: 50vh;
+}
+
+p{
+	text-indent: 10px;
+	padding-left: 5px;
+}
+
+a{
+	text-decoration: none;
+	color:white;
+}
+
+a:hover{
+	color: teal;
+}
+
+.head{
+	text-align: center;
+	font-family: helvetica;
+}
+
+

@@ -1,0 +1,100 @@
+body{
+	background: rgba(0, 0, 255, 0.5)
+
+}
+
+.next, .next2, .box, #tab{
+	float 		: left;
+	width 		: 48vw;
+	height 	: 50vh;
+	border: solid 5px black;
+}
+.next3, #lion{
+	position: relative;
+	float 		: left;
+	width 		: 97vw;
+	height 	: 50vh;
+	border: solid 3px black; 
+}
+
+.next4 {
+	float 		: left;
+	width 		: 97vw;
+	height 	: 50vh;
+}
+.box{
+	display: none;
+}
+p{
+	text-indent: 10px;
+	padding-left: 5px;
+}
+
+#main{
+	height: 100vh;
+	width: 100vw;
+	clear: both;
+	padding-top: 10%;
+}
+
+
+h1{
+	text-align: center;
+	color: white;
+	font-family: helvetica;
+}
+
+img{
+	float 		: left;
+	width 		: 48vw;
+	height 	: 50vh;
+}
+
+nav {
+	background : grey;
+	float: left;
+	height : 10vh;
+	position: fixed;
+	z-index: 1000;
+	right: 0px;
+	top: 0px;
+	width: 100%;
+}
+nav ul {
+	list-style: none;
+	position :relative;
+	right: 10px;
+	padding : 0px;
+	float: left;
+	width : 100%;
+}
+nav ul li{
+	color: white;
+	float: left;
+	font-family: helvetica;
+	font-size: 10pt;
+	height: 100%;
+	padding-top: 10px;
+	text-align: center;
+	width: 25%;
+}
+
+a{
+	text-decoration: none;
+	color:white;
+}
+
+a:hover{
+	color: rgba(0, 0, 255, 0.5);
+	cursor: pointer;
+}
+
+.head{
+	text-align: center;
+	font-family: helvetica;
+}
+
+.third{
+	display: none;
+}
+

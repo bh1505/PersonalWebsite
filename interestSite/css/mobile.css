@@ -1,0 +1,105 @@
+body{
+	background: rgba(0, 0, 255, 0.5)
+}
+
+/*code for index page*/
+.next, .next2, .box, #tab{
+	position: relative;
+	right:8px;
+	float 		: left;
+	width 		: 97vw;
+	height 	: 50vh;
+	border: solid 5px black;
+}
+.next3, #lion{
+	position: relative;
+	right: 5px;
+	float 		: left;
+	width 		: 97vw;
+	height 	: 50vh;
+	border: solid 3px black; 
+}
+
+.next4 {
+	position: relative;
+	left: 10px;
+	float 		: left;
+	width 		: 97vw;
+	height 	: 50vh;
+}
+.box{
+	display: none;
+}
+p{
+	text-indent: 10px;
+	padding-left: 5px;
+}
+
+#main{
+	height: 100vh;
+	width: 100vw;
+	clear: both;
+	padding-top: 45%;
+}
+
+
+h1{
+	text-align: center;
+	color: white;
+	font-family: helvetica;
+}
+
+img{
+	float 		: left;
+	width 		: 97vw;
+	height 	: 50vh;
+}
+nav {
+	background : grey;
+	float: left;
+	height : 30vh;
+	position: fixed;
+	z-index: 1000;
+	right: 0px;
+	top: 0px;
+	width: 100%;
+}
+nav ul {
+	list-style: none;
+	position :relative;
+	padding : 0px;
+	padding-top: 0px;
+	float: left;
+	width : 100%;
+	bottom: 13px;
+}
+nav ul li{
+	color: white;
+	float: left;
+	font-family: helvetica;
+	font-size: 20pt;
+	height: 100%;
+	padding-top: 10px;
+	text-align: center;
+	width: 100%;
+}
+
+a{
+	text-decoration: none;
+	color:white;
+}
+
+a:hover{
+	color: rgba(0, 0, 255, 0.5);
+	cursor: pointer;
+}
+
+.head{
+	text-align: center;
+	font-family: helvetica;
+}
+
+.third{
+	display: none;
+}
+

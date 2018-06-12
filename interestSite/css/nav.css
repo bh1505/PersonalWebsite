@@ -1,0 +1,32 @@
+body {
+	/*background : black;*/
+}
+
+nav {
+	background : lime;
+	float: left;
+	width : 100%;
+}
+
+nav ul {
+	border : solid 1px black;
+	list-style : none;
+	padding: 0px;
+	width: 100%;
+	float: left;
+}
+
+nav ul li {
+	border : dashed 0px red;
+	float: left;
+	text-align: center;
+	width : 25%;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+nav ul li:hover {
+	background: black;
+	color : white;
+	cursor: pointer;
+}

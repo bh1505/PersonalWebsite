@@ -1,0 +1,125 @@
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+.nav-pills {
+	padding-top: 5px;
+
+}
+
+.page-header {
+	color: #337ab7;
+	text-align: center;
+	display: none;
+}
+
+.help {
+	width: 70vw;
+	height: 70vh;
+}
+
+.media-body {
+	position:relative;
+	right: 15px;
+}
+
+
+.bear {
+	position: relative;
+	right: 40px;
+	width: 80vw;
+	height: 70vh;
+}
+
+.thumbnail{
+	height: 400px;
+}
+.thumbnail img{
+	height: 200px;
+}
+
+.picture{
+	height: 200px;
+}
+ .jumbotron h1 {
+ 	color: green;
+ }
+
+.jumbotron{
+	width:80vw;
+}
+
+ .jr {
+ 	position: relative;
+ 	left: 20px;
+ 	width: 75vw;
+ }
+
+ .jumbotron .btn-lg {
+ 	background-color: green;
+ }
+
+ .title{
+ 	color: grey;
+ 	position: relative;
+ 	top: 6px;
+ 	left: 25px;
+ 	font-size: 12pt;
+ 	width: 250px;
+ }
+
+.picture {
+	width: 70vw;
+}
+
+
+.carousel-caption {
+	background-color: rgba(255, 255, 255, 0.7);
+	font-size: 9pt;
+	color: black;
+}
+
+.carousel-inner .item .city {
+	height: 450px;
+}
+
+.label-default {
+	background-color: #ffcc00;
+}
+
+.carousel-indicators {
+	display: none;
+}
+
+.video {
+	height: 	50vh;
+}
+
+.panel{
+	display: none;
+}
+.glo{
+	position: relative;
+	left: 20vw;
+	width: 50vw;
+	bottom: 1vh;
+	background: #337ab7;
+	color: white;
+}
+
+.a{
+	font-style: oblique;
+	font-size: 20pt;
+}
+
+.thank{
+	position: relative;
+	top:5px;
+	height: 30px;
+	text-align: center;
+}
+

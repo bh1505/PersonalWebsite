@@ -1,0 +1,45 @@
+body {
+
+	background-color : rgb(120, 1, 191);
+
+}
+
+#bong {
+	background-color: red;
+}
+
+h1{
+
+	color: white;
+	text-align: center;
+	font-family: "Arial";
+	font-size: 20pt;
+}
+
+p{
+	text-align: center;
+	width: 50%;
+	margin: auto;
+	font-family: "Arial";
+}
+a:link{
+	background-color:yellow;
+	font-family: "Arial";
+	font-style: italic;
+}
+
+a:hover{
+	color: blue;
+	font-size: 14pt;
+}
+
+a:active {
+	font-size: 20pt;
+}
+
+a:visited {
+	background-color: white;
+}
+a:focus{
+	color: magenta;
+}
